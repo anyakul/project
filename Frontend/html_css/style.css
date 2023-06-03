@@ -41,7 +41,7 @@ body {
   line-height: 16px;
 }
 
-.main {
+.main__row {
   display: flex;
   justify-content: space-between;
   align-items: flex-start;
